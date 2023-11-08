@@ -45,10 +45,10 @@
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>io.sentry</groupId>
-			<artifactId>sentry-logback</artifactId>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>io.sentry</groupId>-->
+<!--			<artifactId>sentry-logback</artifactId>-->
+<!--		</dependency>-->
 		<dependency>
 			<groupId>io.sentry</groupId>
 			<artifactId>sentry-spring-boot-starter-jakarta</artifactId>
