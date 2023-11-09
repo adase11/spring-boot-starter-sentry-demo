@@ -3,6 +3,9 @@
 This project aims to demonstrate how the combination of minimal spring-boot starters and
 the spring-boot-sentry-starter project cause lots of noise in start up logs about sentry beans 'not eligible for getting processed by all BeanPostProcessors'.
 
+# Link to issue
+The issue opened up for this is [#3042](https://github.com/getsentry/sentry-java/issues/3042)
+
 # Setup
 
 I used [Spring initializr](https://start.spring.io/) to create this project with Maven, Java 21, and Spring Boot 3.1.5.
